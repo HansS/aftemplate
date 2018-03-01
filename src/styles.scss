@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+* {
+  border: 1px solid red;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
